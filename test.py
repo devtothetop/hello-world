@@ -1,6 +1,6 @@
 def foo():
-    msg = "A"
-    return msg
+  msg = "C"
+  retrun msg
 
 print "Hello world"
 print foo()
